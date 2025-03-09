@@ -102,14 +102,14 @@
 
 ### ☁️ Cloud/Deployment
 <p align="left">
-  <a href="https://render.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/render/render-original.svg" alt="Render" width="40" height="40"/></a>
+  <a href="https://render.com" target="_blank" rel="noreferrer"><img src="https://simpleicons.org/icons/render.svg" alt="Render" width="40" height="40"/></a>
   <a href="https://www.netlify.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original.svg" alt="Netlify" width="40" height="40"/></a>
   <a href="https://railway.app" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/railway/railway-original.svg" alt="Railway" width="40" height="40"/></a>
 </p>
 
 ### 📊 Reporting/BI
 <p align="left">
-  <a href="https://www.tableau.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" alt="Tableau" width="40" height="40"/></a>
+  <a href="https://www.tableau.com" target="_blank" rel="noreferrer"><img src="https://simpleicons.org/icons/tableau.svg" alt="Tableau" width="40" height="40"/></a>
   <a href="https://www.anaconda.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="Anaconda" width="40" height="40"/></a>
   <a href="https://www.rstudio.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg" alt="RStudio" width="40" height="40"/></a>
 </p>
@@ -117,7 +117,7 @@
 ### 🤖 IoT Tools
 <p align="left">
   <a href="https://www.arduino.cc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino IDE" width="40" height="40"/></a>
-  <a href="https://www.tinkercad.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/xxx-makadi/readme/main/icons/tinkercad.svg" alt="Tinkercad" width="40" height="40"/></a>
+  <a href="https://www.tinkercad.com" target="_blank" rel="noreferrer"><img src="https://simpleicons.org/icons/tinkercad.svg" alt="Tinkercad" width="40" height="40"/></a>
 </p>
 
 ### 📝 Productivity
