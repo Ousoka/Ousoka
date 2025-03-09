@@ -70,51 +70,49 @@
 <a href="https://www.mongodb.com"><img alt="MongoDB" title="MongoDB" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" height="42"></a>
 
 ## 🧠 My Competences
-<a href="https://en.wikipedia.org/wiki/Full_stack_development"><img alt="Fullstack Development" title="Fullstack Development" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fullstack/fullstack-original.svg" height="42"></a>
-<a href="https://en.wikipedia.org/wiki/Business_intelligence"><img alt="Reporting BI" title="Reporting BI" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Tableau_Software_logo.svg/512px-Tableau_Software_logo.svg.png" height="42"></a>
-<a href="https://en.wikipedia.org/wiki/Machine_learning"><img alt="Machine Learning" title="Machine Learning" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" height="42"></a>
-<a href="https://en.wikipedia.org/wiki/Deep_learning"><img alt="Deep Learning" title="Deep Learning" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" height="42"></a>
-<a href="https://en.wikipedia.org/wiki/Data_science"><img alt="Data Science" title="Data Science" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/datascience/datascience-original.svg" height="42"></a>
-<a href="https://en.wikipedia.org/wiki/Extract,_transform,_load"><img alt="ETL" title="ETL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="42"></a>
-<a href="https://en.wikipedia.org/wiki/Network_administration"><img alt="Network Administration" title="Network Administration" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Linux_logo.svg/512px-Linux_logo.svg.png" height="42"></a>
-<a href="https://en.wikipedia.org/wiki/Database_administration"><img alt="Database Administration" title="Database Administration" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="42"></a>
+<a href="https://en.wikipedia.org/wiki/Full_stack_development"><img alt="Fullstack Development" title="Fullstack Development" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height="42"></a>
+<a href="https://en.wikipedia.org/wiki/Business_intelligence"><img alt="Reporting BI" title="Reporting BI" src="https://upload.wikimedia.org/wikipedia/commons/0/04/Tableau_Software_logo.svg" height="42"></a>
+<a href="https://en.wikipedia.org/wiki/Machine_learning"><img alt="Machine Learning" title="Machine Learning" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" height="42"></a>
+<a href="https://en.wikipedia.org/wiki/Deep_learning"><img alt="Deep Learning" title="Deep Learning" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" height="42"></a>
+<a href="https://en.wikipedia.org/wiki/Data_science"><img alt="Data Science" title="Data Science" src="https://upload.wikimedia.org/wikipedia/commons/e/eb/Data_visualization_icon.png" height="42"></a>
+<a href="https://en.wikipedia.org/wiki/Extract,_transform,_load"><img alt="ETL" title="ETL" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg" height="42"></a>
+<a href="https://en.wikipedia.org/wiki/Network_administration"><img alt="Network Administration" title="Network Administration" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" height="42"></a>
+<a href="https://en.wikipedia.org/wiki/Database_administration"><img alt="Database Administration" title="Database Administration" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" height="42"></a>
 
 ## 🔧 Other Tools
 
 ### 🖥️ Dev Tools
-<a href="https://developer.android.com/studio"><img alt="Android Studio" title="Android Studio" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" height="42"></a>
-<a href="https://www.jetbrains.com/idea"><img alt="IntelliJ IDEA" title="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" height="42"></a>
-<a href="https://code.visualstudio.com"><img alt="VSCode" title="VSCode" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" height="42"></a>
-<a href="https://git-scm.com"><img alt="Git" title="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" height="42"></a>
-<a href="https://github.com"><img alt="GitHub" title="GitHub" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" height="42"></a>
-<a href="https://about.gitlab.com"><img alt="GitLab" title="GitLab" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/GitLab_logo.svg/512px-GitLab_logo.svg.png" height="42"></a>
-<a href="https://www.docker.com"><img alt="Docker" title="Docker" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" height="42"></a>
-<a href="https://www.postman.com"><img alt="Postman" title="Postman" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Postman_logo.svg/512px-Postman_logo.svg.png" height="42"></a>
-<a href="https://www.mysql.com/products/workbench"><img alt="SQL Workbench" title="SQL Workbench" src="https://www.mysql.com/common/themes/sakila/images/mysql-logo.png" height="42"></a>
-<a href="https://www.cpanel.net"><img alt="cPanel" title="cPanel" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Cpanel_logo.svg/512px-Cpanel_logo.svg.png" height="42"></a>
+<a href="https://developer.android.com/studio"><img alt="Android Studio" title="Android Studio" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Android_Studio_icon.svg" height="42"></a>
+<a href="https://www.jetbrains.com/idea"><img alt="IntelliJ IDEA" title="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" height="42"></a>
+<a href="https://code.visualstudio.com"><img alt="VSCode" title="VSCode" src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Visual_Studio_Code_1.35_icon.svg" height="42"></a>
+<a href="https://git-scm.com"><img alt="Git" title="Git" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" height="42"></a>
+<a href="https://github.com"><img alt="GitHub" title="GitHub" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" height="42"></a>
+<a href="https://about.gitlab.com"><img alt="GitLab" title="GitLab" src="https://upload.wikimedia.org/wikipedia/commons/e/e1/GitLab_logo.svg" height="42"></a>
+<a href="https://www.docker.com"><img alt="Docker" title="Docker" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" height="42"></a>
+<a href="https://www.postman.com"><img alt="Postman" title="Postman" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" height="42"></a>
 
 ### 🎨 Design Tools
-<a href="https://www.adobe.com/products/illustrator.html"><img alt="Adobe Illustrator" title="Adobe Illustrator" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Illustrator_CC_icon.svg" height="42"></a>
-<a href="https://www.canva.com"><img alt="Canva" title="Canva" src="https://upload.wikimedia.org/wikipedia/commons/4/42/Canva_Logo.png" height="42"></a>
-<a href="https://www.figma.com"><img alt="Figma" title="Figma" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/figma/figma.png" height="42"></a>
+<a href="https://www.adobe.com/products/illustrator.html"><img alt="Adobe Illustrator" title="Adobe Illustrator" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" height="42"></a>
+<a href="https://www.canva.com"><img alt="Canva" title="Canva" src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_logo.png" height="42"></a>
+<a href="https://www.figma.com"><img alt="Figma" title="Figma" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" height="42"></a>
 
 ### ☁️ Cloud/Deployment
-<a href="https://render.com"><img alt="Render" title="Render" src="https://render.com/images/render-logo.png" height="42"></a>
-<a href="https://www.netlify.com"><img alt="Netlify" title="Netlify" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/netlify/netlify.png" height="42"></a>
-<a href="https://railway.app"><img alt="Railway" title="Railway" src="https://railway.app/brand-assets/railway-logo.png" height="42"></a>
+<a href="https://render.com"><img alt="Render" title="Render" src="https://cdn.worldvectorlogo.com/logos/render.svg" height="42"></a>
+<a href="https://www.netlify.com"><img alt="Netlify" title="Netlify" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Netlify_logo.svg" height="42"></a>
 
 ### 📊 Reporting/BI
-<a href="https://www.tableau.com"><img alt="Tableau" title="Tableau" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Tableau_Software_logo.svg/512px-Tableau_Software_logo.svg.png" height="42"></a>
-<a href="https://www.anaconda.com"><img alt="Anaconda" title="Anaconda" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Anaconda_Logo.png" height="42"></a>
-<a href="https://www.rstudio.com"><img alt="RStudio" title="RStudio" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/RStudio-Icon.png/512px-RStudio-Icon.png" height="42"></a>
+<a href="https://www.tableau.com"><img alt="Tableau" title="Tableau" src="https://upload.wikimedia.org/wikipedia/commons/0/04/Tableau_Software_logo.svg" height="42"></a>
+<a href="https://www.anaconda.com"><img alt="Anaconda" title="Anaconda" src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png" height="42"></a>
+<a href="https://www.rstudio.com"><img alt="RStudio" title="RStudio" src="https://upload.wikimedia.org/wikipedia/commons/8/8f/RStudio-Logo.svg" height="42"></a>
 
 ### 🤖 IoT Tools
-<a href="https://www.arduino.cc"><img alt="Arduino IDE" title="Arduino IDE" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" height="42"></a>
-<a href="https://www.tinkercad.com"><img alt="Tinkercad" title="Tinkercad" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Tinkercad_icon.svg/512px-Tinkercad_icon.svg.png" height="42"></a>
+<a href="https://www.arduino.cc"><img alt="Arduino IDE" title="Arduino IDE" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" height="42"></a>
+<a href="https://www.tinkercad.com"><img alt="Tinkercad" title="Tinkercad" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Tinkercad_icon.svg" height="42"></a>
 
 ### 📝 Productivity
-<a href="https://www.microsoft.com/office"><img alt="Microsoft Office" title="Microsoft Office" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Microsoft_Office_Logo.png" height="42"></a>
+<a href="https://www.microsoft.com/office"><img alt="Microsoft Office" title="Microsoft Office" src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Microsoft_Office_Logo.svg" height="42"></a>
 <a href="https://www.google.com/workplace"><img alt="Google Workspace" title="Google Workspace" src="https://upload.wikimedia.org/wikipedia/commons/5/53/Google_%22G%22_Logo.svg" height="42"></a>
+
 
 ---
 
