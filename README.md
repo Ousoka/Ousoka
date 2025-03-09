@@ -83,12 +83,12 @@
 
 ### 🖥️ Dev Tools
 <p align="left">
-  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/android-sdk.svg" alt="Android Studio" width="40" height="40"/></a>
-  <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Visual_Studio_Code_1.35_icon.svg" alt="VSCode" width="40" height="40"/></a>
-  <a href="https://www.jetbrains.com/idea" target="_blank" rel="noreferrer"><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" alt="IntelliJ IDEA" width="40" height="40"/></a>
+  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="Android Studio" width="40" height="40"/></a>
+  <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VSCode" width="40" height="40"/></a>
+  <a href="https://www.jetbrains.com/idea" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" alt="IntelliJ IDEA" width="40" height="40"/></a>
   <a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://github.com" target="_blank" rel="noreferrer"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.svg" alt="GitHub" width="40" height="40"/></a>
-  <a href="https://about.gitlab.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/GitLab_logo.svg" alt="GitLab" width="40" height="40"/></a>
+  <a href="https://github.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40"/></a>
+  <a href="https://about.gitlab.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="GitLab" width="40" height="40"/></a>
   <a href="https://www.docker.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40"/></a>
   <a href="https://www.postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>
 </p>
@@ -102,28 +102,28 @@
 
 ### ☁️ Cloud/Deployment
 <p align="left">
-  <a href="https://render.com" target="_blank" rel="noreferrer"><img src="https://render.com/images/render-logo.svg" alt="Render" width="40" height="40"/></a>
-  <a href="https://www.netlify.com" target="_blank" rel="noreferrer"><img src="https://www.netlify.com/img/press/logos/full-logo-light.svg" alt="Netlify" width="40" height="40"/></a>
-  <a href="https://railway.app" target="_blank" rel="noreferrer"><img src="https://railway.app/brand-assets/railway-logo.svg" alt="Railway" width="40" height="40"/></a>
+  <a href="https://render.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/render/render-icon.svg" alt="Render" width="40" height="40"/></a>
+  <a href="https://www.netlify.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" width="40" height="40"/></a>
+  <a href="https://railway.app" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/railwayapp/railwayapp-icon.svg" alt="Railway" width="40" height="40"/></a>
 </p>
 
 ### 📊 Reporting/BI
 <p align="left">
-  <a href="https://www.tableau.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Tableau_Software_logo.svg" alt="Tableau" width="40" height="40"/></a>
-  <a href="https://www.anaconda.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Anaconda_Logo.svg" alt="Anaconda" width="40" height="40"/></a>
-  <a href="https://www.rstudio.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/RStudio_logo_flat.svg" alt="RStudio" width="40" height="40"/></a>
+  <a href="https://www.tableau.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="Tableau" width="40" height="40"/></a>
+  <a href="https://www.anaconda.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/anaconda/anaconda-icon.svg" alt="Anaconda" width="40" height="40"/></a>
+  <a href="https://www.rstudio.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/rstudio/rstudio-icon.svg" alt="RStudio" width="40" height="40"/></a>
 </p>
 
 ### 🤖 IoT Tools
 <p align="left">
-  <a href="https://www.arduino.cc" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino IDE" width="40" height="40"/></a>
+  <a href="https://www.arduino.cc" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="Arduino IDE" width="40" height="40"/></a>
   <a href="https://www.tinkercad.com" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/tinkercad.svg" alt="Tinkercad" width="40" height="40"/></a>
 </p>
 
 ### 📝 Productivity
 <p align="left">
-  <a href="https://www.microsoft.com/office" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_logo_%282013-2019%29.svg" alt="Microsoft Office" width="40" height="40"/></a>
-  <a href="https://workspace.google.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Google_Workspace_Logo.svg" alt="Google Workspace" width="40" height="40"/></a>
+  <a href="https://www.microsoft.com/office" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_office/microsoft_office-icon.svg" alt="Microsoft Office" width="40" height="40"/></a>
+  <a href="https://workspace.google.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="Google Workspace" width="40" height="40"/></a>
 </p>
 
 ---
