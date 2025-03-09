@@ -110,7 +110,7 @@
 <p align="left">
   <a href="https://render.com" target="_blank" rel="noreferrer"><img src="https://simpleicons.org/icons/render.svg" alt="Render" width="40" height="40"/></a>
   <a href="https://www.netlify.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original.svg" alt="Netlify" width="40" height="40"/></a>
-<a href="https://railway.app" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/railway/railway-original.svg" alt="Railway" width="40" height="40"/></a>
+<a href="https://railway.app" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/railway.svg" alt="Railway" width="40" height="40"/></a>
   <a href="https://www.cpanel.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/cpanel.svg" alt="cPanel" width="40" height="40"/></a>
 </p>
 
