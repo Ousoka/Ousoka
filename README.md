@@ -70,14 +70,22 @@
 <a href="https://www.mongodb.com"><img alt="MongoDB" title="MongoDB" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" height="42"></a>
 
 ## 🧠 My Competences
-<a href="https://en.wikipedia.org/wiki/Full_stack_development"><img alt="Fullstack Development" title="Fullstack Development" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height="42"></a>
-<a href="https://en.wikipedia.org/wiki/Business_intelligence"><img alt="Reporting BI" title="Reporting BI" src="https://upload.wikimedia.org/wikipedia/commons/0/04/Tableau_Software_logo.svg" height="42"></a>
-<a href="https://en.wikipedia.org/wiki/Machine_learning"><img alt="Machine Learning" title="Machine Learning" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" height="42"></a>
-<a href="https://en.wikipedia.org/wiki/Deep_learning"><img alt="Deep Learning" title="Deep Learning" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" height="42"></a>
-<a href="https://en.wikipedia.org/wiki/Data_science"><img alt="Data Science" title="Data Science" src="https://upload.wikimedia.org/wikipedia/commons/e/eb/Data_visualization_icon.png" height="42"></a>
-<a href="https://en.wikipedia.org/wiki/Extract,_transform,_load"><img alt="ETL" title="ETL" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg" height="42"></a>
-<a href="https://en.wikipedia.org/wiki/Network_administration"><img alt="Network Administration" title="Network Administration" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" height="42"></a>
-<a href="https://en.wikipedia.org/wiki/Database_administration"><img alt="Database Administration" title="Database Administration" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" height="42"></a>
+- **Développement Full Stack**  
+  [Plus d'infos](https://en.wikipedia.org/wiki/Full_stack_development)
+- **Reporting BI (Business Intelligence)**  
+  [Plus d'infos](https://en.wikipedia.org/wiki/Business_intelligence)
+- **Apprentissage Automatique (Machine Learning)**  
+  [Plus d'infos](https://en.wikipedia.org/wiki/Machine_learning)
+- **Apprentissage Profond (Deep Learning)**  
+  [Plus d'infos](https://en.wikipedia.org/wiki/Deep_learning)
+- **Science des Données**  
+  [Plus d'infos](https://en.wikipedia.org/wiki/Data_science)
+- **ETL (Extraction, Transformation, Chargement)**  
+  [Plus d'infos](https://en.wikipedia.org/wiki/Extract,_transform,_load)
+- **Administration Réseau**  
+  [Plus d'infos](https://en.wikipedia.org/wiki/Network_administration)
+- **Administration de Base de Données**  
+  [Plus d'infos](https://en.wikipedia.org/wiki/Database_administration)
 
 ## 🔧 Other Tools
 
@@ -107,7 +115,7 @@
   <a href="https://railway.app" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/railway/railway-original.svg" alt="Railway" width="40" height="40"/></a>
 </p>
 
-### 📊 Reporting/BI
+### 📊 DataScience - Reporting/BI
 <p align="left">
   <a href="https://www.tableau.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/tableau.svg" alt="Tableau" width="40" height="40"/></a>
   <a href="https://www.anaconda.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="Anaconda" width="40" height="40"/></a>
