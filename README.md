@@ -83,7 +83,7 @@
 
 ### 🖥️ Dev Tools
 <a href="https://developer.android.com/studio"><img alt="Android Studio" title="Android Studio" src="https://developer.android.com/static/studio/images/new-studio-logo-1_1920.png" height="42"></a>
-<a href="https://code.visualstudio.com"><img alt="VSCode" title="VSCode" src="[https://upload.wikimedia.org/wikipedia/commons/6/6a/Visual_Studio_Code_1.35_icon.svg](https://fr.wikipedia.org/wiki/Visual_Studio_Code#/media/Fichier:Visual_Studio_Code_1.35_icon.svg)" height="42"></a>
+<a href="https://code.visualstudio.com"><img alt="VSCode" title="VSCode" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Visual_Studio_Code_1.35_icon.svg" height="42"></a>
 <a href="https://www.jetbrains.com/idea"><img alt="IntelliJ IDEA" title="IntelliJ IDEA" src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" height="42"></a>
 <a href="https://git-scm.com"><img alt="Git" title="Git" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" height="42"></a>
 <a href="https://github.com"><img alt="GitHub" title="GitHub" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="42"></a>
