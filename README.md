@@ -82,38 +82,49 @@
 ## 🔧 Other Tools
 
 ### 🖥️ Dev Tools
-<a href="https://developer.android.com/studio"><img alt="Android Studio" title="Android Studio" src="https://developer.android.com/static/studio/images/new-studio-logo-1_1920.png" height="42"></a> <!-- Using PNG as SVG not available -->
-<a href="https://code.visualstudio.com"><img alt="VSCode" title="VSCode" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Visual_Studio_Code_1.35_icon.svg" height="42"></a>
-<a href="https://www.jetbrains.com/idea"><img alt="IntelliJ IDEA" title="IntelliJ IDEA" src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" height="42"></a>
-<a href="https://git-scm.com"><img alt="Git" title="Git" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" height="42"></a>
-<a href="https://github.com"><img alt="GitHub" title="GitHub" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.svg" height="42"></a> <!-- Corrected to SVG -->
-<a href="https://about.gitlab.com"><img alt="GitLab" title="GitLab" src="https://upload.wikimedia.org/wikipedia/commons/e/e1/GitLab_logo.svg" height="42"></a>
-<a href="https://www.docker.com"><img alt="Docker" title="Docker" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" height="42"></a>
-<a href="https://www.postman.com"><img alt="Postman" title="Postman" src="https://www.postman.com/_next/static/media/icon-only-dark.8a5e4f6e.svg" height="42"></a> <!-- Corrected to official SVG -->
+<p align="left">
+  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/android-sdk.svg" alt="Android Studio" width="40" height="40"/></a>
+  <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Visual_Studio_Code_1.35_icon.svg" alt="VSCode" width="40" height="40"/></a>
+  <a href="https://www.jetbrains.com/idea" target="_blank" rel="noreferrer"><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" alt="IntelliJ IDEA" width="40" height="40"/></a>
+  <a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
+  <a href="https://github.com" target="_blank" rel="noreferrer"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.svg" alt="GitHub" width="40" height="40"/></a>
+  <a href="https://about.gitlab.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/GitLab_logo.svg" alt="GitLab" width="40" height="40"/></a>
+  <a href="https://www.docker.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40"/></a>
+  <a href="https://www.postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>
+</p>
 
 ### 🎨 Design Tools
-<a href="https://www.adobe.com/products/illustrator.html"><img alt="Adobe Illustrator" title="Adobe Illustrator" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" height="42"></a>
-<a href="https://www.canva.com"><img alt="Canva" title="Canva" src="https://upload.wikimedia.org/wikipedia/commons/4/42/Canva_Logo.svg" height="42"></a> <!-- Corrected to SVG -->
-<a href="https://www.figma.com"><img alt="Figma" title="Figma" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" height="42"></a>
+<p align="left">
+  <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Adobe Illustrator" width="40" height="40"/></a>
+  <a href="https://www.canva.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="40" height="40"/></a>
+  <a href="https://www.figma.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a>
+</p>
 
 ### ☁️ Cloud/Deployment
-<a href="https://render.com"><img alt="Render" title="Render" src="https://render.com/images/render-logo.svg" height="42"></a> <!-- Official SVG -->
-<a href="https://www.netlify.com"><img alt="Netlify" title="Netlify" src="https://www.netlify.com/v3/img/icons/icon-192x192.png" height="42"></a> <!-- Using PNG as SVG not available -->
-<a href="https://railway.app"><img alt="Railway" title="Railway" src="https://railway.app/brand-assets/railway-logo.svg" height="42"></a> <!-- Corrected to SVG -->
+<p align="left">
+  <a href="https://render.com" target="_blank" rel="noreferrer"><img src="https://render.com/images/render-logo.svg" alt="Render" width="40" height="40"/></a>
+  <a href="https://www.netlify.com" target="_blank" rel="noreferrer"><img src="https://www.netlify.com/img/press/logos/full-logo-light.svg" alt="Netlify" width="40" height="40"/></a>
+  <a href="https://railway.app" target="_blank" rel="noreferrer"><img src="https://railway.app/brand-assets/railway-logo.svg" alt="Railway" width="40" height="40"/></a>
+</p>
 
 ### 📊 Reporting/BI
-<a href="https://www.tableau.com"><img alt="Tableau" title="Tableau" src="https://upload.wikimedia.org/wikipedia/commons/0/04/Tableau_Software_logo.svg" height="42"></a> <!-- Corrected to SVG -->
-<a href="https://www.anaconda.com"><img alt="Anaconda" title="Anaconda" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Anaconda_Logo.svg" height="42"></a> <!-- Corrected to SVG -->
-<a href="https://www.rstudio.com"><img alt="RStudio" title="RStudio" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/RStudio_logo_flat.svg" height="42"></a>
+<p align="left">
+  <a href="https://www.tableau.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Tableau_Software_logo.svg" alt="Tableau" width="40" height="40"/></a>
+  <a href="https://www.anaconda.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Anaconda_Logo.svg" alt="Anaconda" width="40" height="40"/></a>
+  <a href="https://www.rstudio.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/RStudio_logo_flat.svg" alt="RStudio" width="40" height="40"/></a>
+</p>
 
 ### 🤖 IoT Tools
-<a href="https://www.arduino.cc"><img alt="Arduino IDE" title="Arduino IDE" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" height="42"></a>
-<a href="https://www.tinkercad.com"><img alt="Tinkercad" title="Tinkercad" src="https://cdn.worldvectorlogo.com/logos/tinkercad.svg" height="42"></a>
+<p align="left">
+  <a href="https://www.arduino.cc" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino IDE" width="40" height="40"/></a>
+  <a href="https://www.tinkercad.com" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/tinkercad.svg" alt="Tinkercad" width="40" height="40"/></a>
+</p>
 
 ### 📝 Productivity
-<a href="https://www.microsoft.com/office"><img alt="Microsoft Office" title="Microsoft Office" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_logo_%282013-2019%29.svg" height="42"></a>
-<a href="https://workspace.google.com"><img alt="Google Workspace" title="Google Workspace" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Google_Workspace_Logo.svg" height="42"></a>
-
+<p align="left">
+  <a href="https://www.microsoft.com/office" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_logo_%282013-2019%29.svg" alt="Microsoft Office" width="40" height="40"/></a>
+  <a href="https://workspace.google.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Google_Workspace_Logo.svg" alt="Google Workspace" width="40" height="40"/></a>
+</p>
 
 ---
 
