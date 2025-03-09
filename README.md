@@ -44,11 +44,19 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="42"></a>
 <a href="https://reactjs.org"><img alt="React" title="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" height="42"></a>
 <a href="https://reactnative.dev"><img alt="React Native" title="React Native" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" height="42"></a>
-<a href="https://wordpress.org"><img alt="WordPress" title="WordPress" src="[https://raw.githubusercontent.com/WordPress/WordPress/raw/master/wp-content/mu-plugins/wporg-about/icons/wordpress-icon.svg](https://cdn-icons-png.flaticon.com/512/174/174881.png)" height="42"></a>
+<a href="https://expressjs.com">
+  <img alt="Express.js" title="Express.js" 
+       src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" 
+       height="42">
+</a>
 
 ## 🛠️ Backend
 <a href="https://nodejs.org"><img alt="Node.js" title="Node.js" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" height="42"></a>
-<a href="https://expressjs.com"><img alt="Express.js" title="Express.js" src="https://raw.githubusercontent.com/expressjs/expressjs.com/master/public/images/express-logo.png" height="42"></a>
+<a href="https://wordpress.org">
+  <img alt="WordPress" title="WordPress" 
+       src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg" 
+       height="42">
+</a>
 <a href="https://www.python.org"><img alt="Python" title="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" height="42"></a>
 <a href="https://www.java.com"><img alt="Java" title="Java" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" height="42"></a>
 <a href="https://www.scala-lang.org"><img alt="Scala" title="Scala" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/scala.png" height="42"></a>
