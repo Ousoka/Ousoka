@@ -83,13 +83,13 @@
 
 ### 🖥️ Dev Tools
 <a href="https://developer.android.com/studio"><img alt="Android Studio" title="Android Studio" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Android_Studio_icon.svg" height="42"></a>
-<a href="https://www.jetbrains.com/idea"><img alt="IntelliJ IDEA" title="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" height="42"></a>
-<a href="https://code.visualstudio.com"><img alt="VSCode" title="VSCode" src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Visual_Studio_Code_1.35_icon.svg" height="42"></a>
-<a href="https://git-scm.com"><img alt="Git" title="Git" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" height="42"></a>
-<a href="https://github.com"><img alt="GitHub" title="GitHub" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" height="42"></a>
+<a href="https://www.jetbrains.com/idea"><img alt="IntelliJ IDEA" title="IntelliJ IDEA" src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" height="42"></a>
+<a href="https://code.visualstudio.com"><img alt="VSCode" title="VSCode" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Visual_Studio_Code_icon.svg" height="42"></a>
+<a href="https://git-scm.com"><img alt="Git" title="Git" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" height="42"></a>
+<a href="https://github.com"><img alt="GitHub" title="GitHub" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="42"></a>
 <a href="https://about.gitlab.com"><img alt="GitLab" title="GitLab" src="https://upload.wikimedia.org/wikipedia/commons/e/e1/GitLab_logo.svg" height="42"></a>
 <a href="https://www.docker.com"><img alt="Docker" title="Docker" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" height="42"></a>
-<a href="https://www.postman.com"><img alt="Postman" title="Postman" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" height="42"></a>
+<a href="https://www.postman.com"><img alt="Postman" title="Postman" src="https://www.svgrepo.com/show/354202/postman-icon.svg" height="42"></a>
 
 ### 🎨 Design Tools
 <a href="https://www.adobe.com/products/illustrator.html"><img alt="Adobe Illustrator" title="Adobe Illustrator" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" height="42"></a>
@@ -97,13 +97,13 @@
 <a href="https://www.figma.com"><img alt="Figma" title="Figma" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" height="42"></a>
 
 ### ☁️ Cloud/Deployment
-<a href="https://render.com"><img alt="Render" title="Render" src="https://cdn.worldvectorlogo.com/logos/render.svg" height="42"></a>
+<a href="https://render.com"><img alt="Render" title="Render" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Render-Logo.svg" height="42"></a>
 <a href="https://www.netlify.com"><img alt="Netlify" title="Netlify" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Netlify_logo.svg" height="42"></a>
 
 ### 📊 Reporting/BI
 <a href="https://www.tableau.com"><img alt="Tableau" title="Tableau" src="https://upload.wikimedia.org/wikipedia/commons/0/04/Tableau_Software_logo.svg" height="42"></a>
 <a href="https://www.anaconda.com"><img alt="Anaconda" title="Anaconda" src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png" height="42"></a>
-<a href="https://www.rstudio.com"><img alt="RStudio" title="RStudio" src="https://upload.wikimedia.org/wikipedia/commons/8/8f/RStudio-Logo.svg" height="42"></a>
+<a href="https://www.rstudio.com"><img alt="RStudio" title="RStudio" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/RStudio_logo_flat.svg" height="42"></a>
 
 ### 🤖 IoT Tools
 <a href="https://www.arduino.cc"><img alt="Arduino IDE" title="Arduino IDE" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" height="42"></a>
