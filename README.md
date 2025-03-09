@@ -96,6 +96,7 @@
   <a href="https://about.gitlab.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="GitLab" width="40" height="40"/></a>
   <a href="https://www.docker.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40"/></a>
   <a href="https://www.postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>
+  <a href="https://www.uml.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/uml.svg" alt="UML" width="40" height="40"/></a>
 </p>
 
 ### 🎨 Design Tools
@@ -129,6 +130,7 @@
 <p align="left">
   <a href="https://www.microsoft.com/office" target="_blank" rel="noreferrer"><img src="https://infologo.ch/wp-content/uploads/2024/09/M365-Apps.webp" alt="Microsoft Office" width="40" height="40"/></a>
   <a href="https://workspace.google.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Google Workspace" width="40" height="40"/></a>
+  <a href="https://www.notion.so" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/notion.svg" alt="Notion" width="40" height="40"/></a>
 </p>
 
 ---
