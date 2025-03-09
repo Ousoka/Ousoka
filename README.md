@@ -37,7 +37,7 @@
 
 <p align="center"> 
   Visiteurs<br>
-  <img src="https://profile-counter.glitch.me/garimasingh128/count.svg" />
+  <img src="https://profile-counter.glitch.me/Ousoka/count.svg" />
 </p>
 
 <img src="https://raw.githubusercontent.com/Ousoka/Ousoka/output/snake.svg" alt="Snake animation" />
