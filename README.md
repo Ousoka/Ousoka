@@ -1,5 +1,16 @@
-<h1 align="center">👋 Bienvenue sur mon GitHub ! Je suis Ousmane KA (INGÉNIEUR INFORMATICIEN INNOVANT – DÉVELOPPEUR FULLSTACK AVEC COMPÉTENCES DEVSECOPS, DATA SCIENCE, MACHINE LEARNING, ETL PYTHON & REPORTING BI))</h1>
-<h3 align="center">Je suis un étudiant en 5e année d’Ingénierie des Systèmes d’Information et des Données à l’Université Amadou Mahtar Mbow (UAM), passionné par le développement web et mobile, l’intelligence artificielle et les solutions numériques qui font la différence. Ici, vous trouverez mes projets, mes expérimentations et mon parcours pour transformer des idées en applications performantes.</h3>
+<h1 align="center">👋 Bienvenue sur mon GitHub !</h1>
+
+<h2 align="center">Ousmane KA</h2>
+<h3 align="center">🚀 Ingénieur Informaticien | Développeur Fullstack | DevSecOps | Data Science | IA & BI</h3>
+
+---
+
+🎓 **Étudiant en 5e année** d’Ingénierie des Systèmes d’Information et des Données à l’[Université Amadou Mahtar Mbow (UAM)](https://www.uam.sn).  
+💡 Passionné par le **développement web & mobile, l’intelligence artificielle, la cybersécurité et les solutions numériques innovantes**.  
+🔬 Expérimenté en **ETL Python, Machine Learning, DevSecOps, et Reporting BI**.  
+📌 Ici, vous trouverez mes **projets, expérimentations et solutions** pour transformer les idées en applications performantes et impactantes.
+
+---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ousoka&label=Profile%20views&color=0e75b6&style=flat" alt="ousoka" /> </p>
 
