@@ -80,6 +80,7 @@
 <a href="https://en.wikipedia.org/wiki/Database_administration"><img alt="Database Administration" title="Database Administration" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" height="42"></a>
 
 ## 🔧 Other Tools
+## 🔧 Other Tools
 
 ### 🖥️ Dev Tools
 <a href="https://developer.android.com/studio"><img alt="Android Studio" title="Android Studio" src="https://developer.android.com/static/studio/images/new-studio-logo-1_1920.png" height="42"></a>
@@ -99,6 +100,7 @@
 ### ☁️ Cloud/Deployment
 <a href="https://render.com"><img alt="Render" title="Render" src="https://upload.wikimedia.org/wikipedia/commons/9/94/Render_Logo.svg" height="42"></a>
 <a href="https://www.netlify.com"><img alt="Netlify" title="Netlify" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Netlify_logo.svg" height="42"></a>
+<a href="https://railway.app"><img alt="Railway" title="Railway" src="https://railway.app/brand-assets/railway-logo.png" height="42"></a> <!-- Using PNG as SVG not available -->
 
 ### 📊 Reporting/BI
 <a href="https://www.tableau.com"><img alt="Tableau" title="Tableau" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Logo.png" height="42"></a>
