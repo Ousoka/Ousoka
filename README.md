@@ -24,6 +24,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ousoka&" alt="ousoka" /></p>
 
+<img src="https://raw.githubusercontent.com/Ousoka/Ousoka/output/snake.svg" alt="Snake animation" />
 
 <!--
 **Ousoka/Ousoka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
