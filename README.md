@@ -122,7 +122,7 @@
 
 ### 📝 Productivity
 <p align="left">
-  <a href="https://www.microsoft.com/office" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_logo_%282013-2019%29.svg" alt="Microsoft Office" width="40" height="40"/></a>
+  <a href="https://www.microsoft.com/office" target="_blank" rel="noreferrer"><img src="[https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_logo_%282013-2019%29.svg](https://infologo.ch/wp-content/uploads/2024/09/M365-Apps.webp)" alt="Microsoft Office" width="40" height="40"/></a>
   <a href="https://workspace.google.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Google Workspace" width="40" height="40"/></a>
 </p>
 
