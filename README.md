@@ -33,8 +33,7 @@
 <a href="https://discord.gg/1065906442328084540" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1065906442328084540" height="30" width="40" /></a>
 </p>
 
-# 👨‍💻 Ousoka - Skills
-
+---
 ## 🌐 Operating Systems
 <a href="https://www.microsoft.com/en-us/windows"><img alt="Windows" title="Windows" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" height="42"></a>
 <a href="https://www.linux.org"><img alt="Linux" title="Linux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" height="42"></a>
