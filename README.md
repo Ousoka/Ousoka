@@ -99,30 +99,31 @@
   <a href="https://www.canva.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="40" height="40"/></a>
   <a href="https://www.figma.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a>
 </p>
+
 ### ☁️ Cloud/Deployment
 <p align="left">
-  <a href="https://render.com" target="_blank" rel="noreferrer"><img src="https://render.com/images/render-logo.svg" alt="Render" width="40" height="40"/></a>
-  <a href="https://www.netlify.com" target="_blank" rel="noreferrer"><img src="https://www.netlify.com/img/press/logos/full-logo-light.svg" alt="Netlify" width="40" height="40"/></a>
-  <a href="https://railway.app" target="_blank" rel="noreferrer"><img src="https://railway.app/brand-assets/railway-logo.svg" alt="Railway" width="40" height="40"/></a>
+  <a href="https://render.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/render/render-original.svg" alt="Render" width="40" height="40"/></a>
+  <a href="https://www.netlify.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original.svg" alt="Netlify" width="40" height="40"/></a>
+  <a href="https://railway.app" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/railway/railway-original.svg" alt="Railway" width="40" height="40"/></a>
 </p>
 
 ### 📊 Reporting/BI
 <p align="left">
-  <a href="https://www.tableau.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Tableau_Software_logo.svg" alt="Tableau" width="40" height="40"/></a>
-  <a href="https://www.anaconda.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Anaconda_Logo.svg" alt="Anaconda" width="40" height="40"/></a>
-  <a href="https://www.rstudio.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/RStudio_logo_flat.svg" alt="RStudio" width="40" height="40"/></a>
+  <a href="https://www.tableau.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" alt="Tableau" width="40" height="40"/></a>
+  <a href="https://www.anaconda.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="Anaconda" width="40" height="40"/></a>
+  <a href="https://www.rstudio.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg" alt="RStudio" width="40" height="40"/></a>
 </p>
 
 ### 🤖 IoT Tools
 <p align="left">
-  <a href="https://www.arduino.cc" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" alt="Arduino IDE" width="40" height="40"/></a>
-  <a href="https://www.tinkercad.com" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/tinkercad.svg" alt="Tinkercad" width="40" height="40"/></a>
+  <a href="https://www.arduino.cc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino IDE" width="40" height="40"/></a>
+  <a href="https://www.tinkercad.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/xxx-makadi/readme/main/icons/tinkercad.svg" alt="Tinkercad" width="40" height="40"/></a>
 </p>
 
 ### 📝 Productivity
 <p align="left">
-  <a href="https://www.microsoft.com/office" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_logo_%282013-2019%29.svg" alt="Microsoft Office" width="40" height="40"/></a>
-  <a href="https://workspace.google.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Google_Workspace_Logo.svg" alt="Google Workspace" width="40" height="40"/></a>
+  <a href="https://www.microsoft.com/office" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoft/microsoft-original.svg" alt="Microsoft Office" width="40" height="40"/></a>
+  <a href="https://workspace.google.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Google Workspace" width="40" height="40"/></a>
 </p>
 
 ---
