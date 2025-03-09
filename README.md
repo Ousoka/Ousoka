@@ -109,8 +109,8 @@
 
 ### 📊 Reporting/BI
 <p align="left">
-<a href="https://www.tableau.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Tableau_Software_logo.svg" alt="Tableau" width="40" height="40"/></a>
- <a href="https://www.anaconda.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="Anaconda" width="40" height="40"/></a>
+  <a href="https://www.tableau.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/tableau.svg" alt="Tableau" width="40" height="40"/></a>
+  <a href="https://www.anaconda.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="Anaconda" width="40" height="40"/></a>
   <a href="https://www.rstudio.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg" alt="RStudio" width="40" height="40"/></a>
 </p>
 
@@ -122,7 +122,7 @@
 
 ### 📝 Productivity
 <p align="left">
-  <a href="https://www.microsoft.com/office" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_logo_%282013-2019%29.svg" alt="Microsoft Office" width="40" height="40"/></a>
+  <a href="https://www.microsoft.com/office" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/microsoft.svg" alt="Microsoft Office" width="40" height="40"/></a>
   <a href="https://workspace.google.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Google Workspace" width="40" height="40"/></a>
 </p>
 
