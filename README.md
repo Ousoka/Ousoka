@@ -71,21 +71,16 @@
 
 ## 🧠 My Competences
 - **Développement Full Stack**  
-  [Plus d'infos](https://en.wikipedia.org/wiki/Full_stack_development)
 - **Reporting BI (Business Intelligence)**  
-  [Plus d'infos](https://en.wikipedia.org/wiki/Business_intelligence)
 - **Apprentissage Automatique (Machine Learning)**  
-  [Plus d'infos](https://en.wikipedia.org/wiki/Machine_learning)
 - **Apprentissage Profond (Deep Learning)**  
-  [Plus d'infos](https://en.wikipedia.org/wiki/Deep_learning)
 - **Science des Données**  
-  [Plus d'infos](https://en.wikipedia.org/wiki/Data_science)
 - **ETL (Extraction, Transformation, Chargement)**  
-  [Plus d'infos](https://en.wikipedia.org/wiki/Extract,_transform,_load)
 - **Administration Réseau**  
-  [Plus d'infos](https://en.wikipedia.org/wiki/Network_administration)
-- **Administration de Base de Données**  
-  [Plus d'infos](https://en.wikipedia.org/wiki/Database_administration)
+- **Administration de Base de Données**
+- **Ethical Hacking**  
+- **DevOps**  
+
 
 ## 🔧 Other Tools
 
