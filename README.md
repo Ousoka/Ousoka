@@ -34,6 +34,19 @@
 </p>
 
 ---
+
+## 🧠 My Competences
+- **Développement Full Stack**  
+- **Reporting BI (Business Intelligence)**  
+- **Apprentissage Automatique (Machine Learning)**  
+- **Apprentissage Profond (Deep Learning)**  
+- **Science des Données**  
+- **ETL (Extraction, Transformation, Chargement)**  
+- **Administration Réseau**  
+- **Administration de Base de Données**
+- **Ethical Hacking**  
+- **DevOps**  
+
 ## 🌐 Operating Systems
 <a href="https://www.microsoft.com/en-us/windows"><img alt="Windows" title="Windows" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" height="42"></a>
 <a href="https://www.linux.org"><img alt="Linux" title="Linux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" height="42"></a>
@@ -68,19 +81,6 @@
 ## 🗃️ Databases
 <a href="https://www.mysql.com"><img alt="MySQL" title="MySQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" height="42"></a>
 <a href="https://www.mongodb.com"><img alt="MongoDB" title="MongoDB" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" height="42"></a>
-
-## 🧠 My Competences
-- **Développement Full Stack**  
-- **Reporting BI (Business Intelligence)**  
-- **Apprentissage Automatique (Machine Learning)**  
-- **Apprentissage Profond (Deep Learning)**  
-- **Science des Données**  
-- **ETL (Extraction, Transformation, Chargement)**  
-- **Administration Réseau**  
-- **Administration de Base de Données**
-- **Ethical Hacking**  
-- **DevOps**  
-
 
 ## 🔧 Other Tools
 
