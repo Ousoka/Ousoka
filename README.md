@@ -43,7 +43,6 @@
 <a href="https://www.w3.org/Style/CSS"><img alt="CSS" title="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" height="42"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="42"></a>
 <a href="https://reactjs.org"><img alt="React" title="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" height="42"></a>
-<a href="https://reactnative.dev"><img alt="React Native" title="React Native" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" height="42"></a>
 <a href="https://expressjs.com">
   <img alt="Express.js" title="Express.js" 
        src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" 
@@ -62,6 +61,9 @@
 <a href="https://www.scala-lang.org"><img alt="Scala" title="Scala" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/scala.png" height="42"></a>
 <a href="https://www.php.net"><img alt="PHP" title="PHP" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" height="42"></a>
 <a href="https://www.cprogramming.com"><img alt="C" title="C" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" height="42"></a>
+
+## 📱 Mobile Development
+<a href="https://reactnative.dev"><img alt="React Native" title="React Native" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" height="42"></a>
 
 ## 🗃️ Databases
 <a href="https://www.mysql.com"><img alt="MySQL" title="MySQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" height="42"></a>
