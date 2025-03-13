@@ -1,5 +1,5 @@
 <img src="ousoka_bg1.jpg" alt="GitHub Banner" width="100%" />
-
+  
 <h1 align="center">👋 Bienvenue sur mon GitHub !</h1>
 
 <h2 align="center">Ousmane KA</h2>
