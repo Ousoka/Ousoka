@@ -7,7 +7,7 @@
 
 ---
 
-🎓 **Étudiant en 5e année** d’Ingénierie des Systèmes d’Information et des Données à l’[Université Amadou Mahtar Mbow (UAM)](https://www.uam.sn).  
+🎓 **Ingénieur en Systèmes d’Information et des Données** à l’[Université Amadou Mahtar Mbow (UAM)](https://www.uam.sn).  
 💡 Passionné par le **développement web & mobile, l’intelligence artificielle, la cybersécurité et les solutions numériques innovantes**.  
 🔬 Expérimenté en **ETL Python, Machine Learning, DevSecOps, et Reporting BI**.  
 📌 Ici, vous trouverez mes **projets, expérimentations et solutions** pour transformer les idées en applications performantes et impactantes.
